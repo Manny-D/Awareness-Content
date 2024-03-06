@@ -50,7 +50,8 @@ A short video addressing the risks associated with AWS S3 Buckets was created:
 ## Step 4: Communication via Email 
 Composed and sent the following email with an image linked to the video above:
 
-<img src="https://github.com/Manny-D/Awareness-Content/assets/99146530/c256d206-c87a-4105-9f09-d2a5596d420b" />
+<img src="https://github.com/Manny-D/Awareness-Content/assets/99146530/dd974735-8038-4a2d-aa2e-a5ab6343938d" />
+
 </br>
 </br>
 
