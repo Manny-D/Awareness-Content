@@ -1,7 +1,7 @@
 # Cybersecurity Awareness Content
 
 ## Overview:
-A training video was created to teach S3 bucket security, drawing lessons from the SEGA Europe data breach.
+A training video was created to highlight AWS S3 bucket security, drawing lessons from the SEGA Europe data breach.
 
 
 ## Key Points:
