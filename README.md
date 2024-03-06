@@ -22,7 +22,7 @@ A training video was created to highlight AWS S3 bucket security, drawing lesson
 # Project Walk-Through
 
 ## Step 1: Identifying the Opportunity
-Leveraging real-world events like the SEGA data breach ([read more](https://threatpost.com/sega-security-aws-s3-exposed-steam/177352/)), this training highlights cybersecurity risks and best practices through the lens of threat modeling and current news.
+Leveraging real-world events like the [SEGA data breach](https://threatpost.com/sega-security-aws-s3-exposed-steam/177352/), this training highlights cybersecurity risks and best practices through the lens of threat modeling and current news.
 
 <img src="https://github.com/Manny-D/Awareness-Content/assets/99146530/a7db7382-e6f3-41d1-ab7d-b2ab7f30a157" />
 
