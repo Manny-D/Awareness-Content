@@ -42,7 +42,7 @@ To effectively educate these users, a training outline was created addressing th
 ## Step 3: Creating the Video
 A short video addressing the risks associated with AWS S3 Buckets was created:
 
-<img src="https://github.com/Manny-D/Awareness-Content/assets/99146530/b1bd7d24-8c5e-42b3-8f75-2701853d5e7f" /> 
+<a href="https://www.loom.com/share/79c4f06e99c14bae841f766b00c8894c?sid=3e6a62d0-96f2-4037-be8b-ac4a79ffab3a"> <img src="https://github.com/Manny-D/Awareness-Content/assets/99146530/b1bd7d24-8c5e-42b3-8f75-2701853d5e7f"></a> 
 
 </br>
 
