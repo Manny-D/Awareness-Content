@@ -5,8 +5,8 @@ A training video was created to highlight AWS S3 bucket security, drawing lesson
 
 
 ## Key Points:
-- Risk Highlight: SEGA's S3 bucket misconfiguration incident exemplifies a common risk of leaks.
-- Incident Impact: API keys, messaging systems, and user data was exposed. 
+- Risk Highlight: SEGA's S3 bucket misconfiguration incident demonstrating a common risk of leaks.
+- Incident Impact: API keys, messaging systems, and user data exposure. 
 - Best Practices: Shared insights on securing AWS S3 buckets and promoting responsible disclosure.
 
 
