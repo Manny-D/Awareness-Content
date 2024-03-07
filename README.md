@@ -32,7 +32,7 @@ After considering the security implications of this event, I targeted individual
 ## Developing the Outline
 To effectively educate these users, a training outline was created addressing the following:
 
-- Understanding the risks associated with AWS S3 buckets.
+- Understanding the risks associated with S3 buckets.
 - Identifying and mitigating the risks of insecure S3 buckets.
 - Implementing best practices for securing S3 buckets.
 </br>
