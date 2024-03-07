@@ -1,6 +1,6 @@
 # Cybersecurity Awareness Content
 
-## Overview:
+## Description:
 A training video was created to highlight AWS S3 bucket security, drawing lessons from the SEGA Europe data breach.
 
 
@@ -19,9 +19,7 @@ A training video was created to highlight AWS S3 bucket security, drawing lesson
 </br>
 
 
-# Project Walk-Through
-
-## Step 1: Identifying the Opportunity
+## Identifying the Opportunity
 Leveraging real-world events like the [SEGA data breach](https://threatpost.com/sega-security-aws-s3-exposed-steam/177352/), this training highlights cybersecurity risks and best practices through the lens of threat modeling and current news.
 
 <img src="https://github.com/Manny-D/Awareness-Content/assets/99146530/a7db7382-e6f3-41d1-ab7d-b2ab7f30a157" />
@@ -31,7 +29,7 @@ After considering the security implications of this event, I targeted individual
 </br>
 
 
-## Step 2: Developing the Outline
+## Developing the Outline
 To effectively educate these users, a training outline was created addressing the following:
 
 - Understanding the risks associated with AWS S3 buckets.
@@ -39,7 +37,7 @@ To effectively educate these users, a training outline was created addressing th
 - Implementing best practices for securing S3 buckets.
 </br>
 
-## Step 3: Creating the Video
+## Video Creation 
 A short video addressing the risks associated with AWS S3 Buckets was created:
 
 <a href="https://www.loom.com/share/79c4f06e99c14bae841f766b00c8894c?sid=3e6a62d0-96f2-4037-be8b-ac4a79ffab3a"> <img src="https://github.com/Manny-D/Awareness-Content/assets/99146530/b1bd7d24-8c5e-42b3-8f75-2701853d5e7f"></a> 
@@ -47,7 +45,7 @@ A short video addressing the risks associated with AWS S3 Buckets was created:
 </br>
 
 
-## Step 4: Communication via Email 
+## Communicating via Email 
 Composed and sent the following email with an image linked to the video above:
 
 <img src="https://github.com/Manny-D/Awareness-Content/assets/99146530/dd974735-8038-4a2d-aa2e-a5ab6343938d" />
@@ -55,5 +53,5 @@ Composed and sent the following email with an image linked to the video above:
 </br>
 </br>
 
-## Step 5: Repeating the Process 
+## Rinse and Repeat the Process 
 Steps 1-4 can be repeated to create similar cybersecurity awareness content, ideally once a week.
